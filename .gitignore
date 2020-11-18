@@ -1,6 +1,6 @@
 my_account.session
 config.ini
-/plugins/command_for_mems/__pycache__
-/plugins/command_for_images/__pycache__
-/plugins/debug_commands/__pycache__
+plugins/command_for_mems/__pycache__
+plugins/command_for_images/__pycache__
+plugins/debug_commands/__pycache__
 
